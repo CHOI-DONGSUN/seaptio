@@ -1,0 +1,96 @@
+{
+    "nav": {
+      "roadmap": "Roadmap",
+      "about": "About",
+      "tokenomics": "Tokenomics",
+      "whitepaper": "Whitepaper"
+    },
+    "hero": {
+      "title1": "Get APT",
+      "title2": "in Space"
+    },
+    "roadmap": {
+      "title": "How about finding a home in space?",
+      "subtitle": "SeAPT",
+      "description": "Let’s build a home in space! Send out my loyal companion, Se APT, to conquer the universe and create a home among the stars. When you venture into space and claim the stars, you’ll discover countless treasures (coins). Those treasures (coins) will turn me into a billionaire!",
+      "phase1": {
+        "title": "Phase 1",
+        "date": "2025.01",
+        "description": "TAP TO EARN Launch"
+      },
+      "phase2": {
+        "title": "Phase 2",
+        "date": "2025.06",
+        "description": "Listing on a TOP 10 Exchange"
+      },
+      "phase3": {
+        "title": "Phase 3",
+        "date": "2025.12",
+        "description": "Achievement of 100,000 Users Listing on a TOP 5 Exchange"
+      },
+      "phase4": {
+        "title": "Phase 4",
+        "date": "2026",
+        "description": "Listed on Binance"
+      }
+    },
+    "about": {
+      "rwa": {
+        "title": "RWA",
+        "subtitle": "Real World Asset",
+        "heading": "Bringing RWA to the Blockchain",
+        "description": "We transform real-world assets such as real estate, gold, and stocks into <b>Crypto Property, enabling anyone to own and trade them safely and transparently</b> on the blockchain."
+      },
+      "luckyToE": {
+        "title": "Lucky to E",
+        "heading": "Earn Rewards Through Your Actions!",
+        "description": "We enable users to unlock exciting rewards and earn income simply by engaging with our platform. Whether it’s through completing activities, participating in events, or contributing in meaningful ways, your efforts will be recognized and rewarded. <b>Join us to turn your actions into valuable benefits!</b>"
+      },
+      "ai": {
+        "title": "AI",
+        "subtitle": "Artificial Intelligence",
+        "heading": "AI Meets Blockchain Rewards",
+        "description": "<b>By integrating AI technology with blockchain</b>, we provide automated processes, optimized reward distribution, and data analysis to deliver an efficient and secure user experience."
+      },
+      "nft": {
+        "title": "NFT",
+        "subtitle": "Non-Fungible Token",
+        "heading": "Redefining Ownership with NFTs",
+        "description": "We offer Crypto Property NFTs that guarantee ownership of unique digital assets, combining real-world value with digital innovation. <b>These NFTs provide an unprecedented opportunity to bridge tangible value</b> and cutting-edge technology, redefining the concept of ownership in the digital age."
+      }
+    },
+    "tokenomics": {
+      "title": "Own the universe with SeAPT",
+      "totalSupply": {
+        "title": "Total Supply : 500 trillion",
+        "description": "SeAPT is a next-generation meme coin built on the BSC network."
+      },
+      "lp": {
+        "title": "LP (Liquidity Pool) : 96%",
+        "description": "The ownership of SeAPT coins lies with the SeAPT users, and naturally, the power belongs to them as well."
+      },
+      "burn": {
+        "title": "Burn : 300 trillion",
+        "description": "Although Binance advised burning 200 trillion tokens, we decided to burn 300 trillion instead. It’s a bold move, but we chose the path to increase value, even if it’s a bit painful."
+      },
+      "charity": {
+        "title": "Charity and Airdrops : 2%",
+        "description": "Following the spirit of SeAPT, we’ll use these funds to help many people and promote SeAPT worldwide."
+      },
+      "marketing": {
+        "title": "Marketing and Exchange Liquidity : 2%",
+        "description":"As various exchanges keep asking for SeAPT coins, we’ll allocate some to them and use the rest for marketing."
+      }
+    },
+    "whitepaper": {
+      "title": "Whitepaper",
+      "buttonText": "Download",
+      "content": "In 2024, as real estate markets around the world skyrocketed, many people were forced to abandon their dream of owning a home. Dissatisfaction among Earth's population grew louder. If we can't buy a house on Earth because of soaring prices, how about finding a home in space? This idea gradually materialized into a meme coin called Se APT. Se stands for Space, and APT represents an apartment (or house). The coin gained even more traction as it aligned with the trending song APT, creating a wave of enthusiasm. The birth of Se APT, a meme coin that satirizes the unattainable dream of owning a home, became a symbol of hope, representing the idea that anyone could own a home in space. Now, Se APT has evolved beyond a simple meme coin to embody future housing and a playful rebellion. With the slogan, We own apartments in space! Se APT strives to overcome the inequalities of reality while maintaining a sense of humor. It represents the freedom for everyone to dream big and look toward the stars."
+    },
+    "footer": {
+      "slogan": "THE TIME IS NOW GET APT IN SPACE",
+      "copyright": "Space APT © 2024. All rights reserved."
+    }
+  }
+  
+  
