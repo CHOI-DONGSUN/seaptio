@@ -360,6 +360,7 @@ const App = () => {
                       >
                         <option value="en">EN</option>
                         <option value="ko">KO</option>
+                        <option value="be">BE</option>
                       </select>
                     </div>
                     <BsList
