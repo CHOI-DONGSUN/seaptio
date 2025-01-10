@@ -317,7 +317,7 @@ const App = () => {
                             </clipPath>
                           </defs>
                         </svg>
-                      ) : (
+                      ) : selectedLanguage === "kr" ? (
                         <svg
                           width="22"
                           height="16"
@@ -352,6 +352,8 @@ const App = () => {
                             </clipPath>
                           </defs>
                         </svg>
+                      ): (
+                        <div>Language not supported</div>
                       )}
                       <select
                         onChange={(e) => changeLanguage(e.target.value)}
@@ -360,7 +362,9 @@ const App = () => {
                       >
                         <option value="en">EN</option>
                         <option value="ko">KO</option>
-                        <option value="be">BE</option>
+                        <option value="jp">JP</option>
+                        <option value="cn">CN</option>
+                        <option value="vt">VT</option>
                       </select>
                     </div>
                     <BsList
