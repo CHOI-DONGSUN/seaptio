@@ -360,33 +360,22 @@ const App = () => {
                           fill="none"
                           xmlns="http://www.w3.org/2000/svg"
                         >
-                          <g clip-path="url(#clip0_1_51082)">
-                            <rect width="22" height="16" rx="2" fill="white" />
-                            <path
-                              fill-rule="evenodd"
-                              clip-rule="evenodd"
-                              d="M14.6667 7.99999C14.6667 10.0619 13.0251 11.7333 11 11.7333C8.97496 11.7333 7.33334 10.0619 7.33334 7.99999C7.33334 6.80533 9.79525 6.30399 11.8674 6.49279C12.0874 6.43306 12.3242 6.39999 12.5714 6.39999C13.7291 6.39999 14.6667 7.11679 14.6667 7.99999Z"
-                              fill="#232C80"
-                            />
-                            <path
-                              fill-rule="evenodd"
-                              clip-rule="evenodd"
-                              d="M10.4762 7.46666C10.4762 7.46666 11.4138 6.4 12.5714 6.4C13.7291 6.4 14.6667 7.1168 14.6667 8C14.6667 5.93813 13.0251 4.26666 11 4.26666C9.53649 4.26666 8.27306 5.1392 7.68534 6.40213C7.33334 7.46666 7.33334 7.77813 7.33334 8C7.85715 8.53333 8.43963 8.53333 8.90477 8.53333C9.36992 8.53333 9.78791 8.32746 10.076 8L10.4762 7.46666Z"
-                              fill="#F93939"
-                            />
-                            <path
-                              fill-rule="evenodd"
-                              clip-rule="evenodd"
-                              d="M15.7143 5.33333H17.8095L15.7143 3.2H14.6667L15.7143 5.33333ZM6.28573 5.33333H4.19049L6.28573 3.2H7.33335L6.28573 5.33333ZM15.7143 10.6667H17.8095L15.7143 12.8H14.6667L15.7143 10.6667ZM6.28573 10.6667H4.19049L6.28573 12.8H7.33335L6.28573 10.6667Z"
-                              fill="#151515"
-                            />
+                          <g clip-path="url(#clip0_1_51208)">
+                            <g clip-path="url(#clip1_1_51208)">
+                              <rect width="22" height="16" rx="2" fill="white" />
+                              <circle cx="11" cy="8" r="4" fill="#BC002D" />
+                            </g>
                           </g>
                           <defs>
-                            <clipPath id="clip0_1_51082">
+                            <clipPath id="clip0_1_51208">
                               <rect width="22" height="16" fill="white" />
+                            </clipPath>
+                            <clipPath id="clip1_1_51208">
+                              <rect width="22" height="16" rx="2" fill="white" />
                             </clipPath>
                           </defs>
                         </svg>
+
                       ): selectedLanguage === "cn" ? (
                         <svg
                           width="22"
@@ -395,33 +384,29 @@ const App = () => {
                           fill="none"
                           xmlns="http://www.w3.org/2000/svg"
                         >
-                          <g clip-path="url(#clip0_1_51082)">
-                            <rect width="22" height="16" rx="2" fill="white" />
-                            <path
-                              fill-rule="evenodd"
-                              clip-rule="evenodd"
-                              d="M14.6667 7.99999C14.6667 10.0619 13.0251 11.7333 11 11.7333C8.97496 11.7333 7.33334 10.0619 7.33334 7.99999C7.33334 6.80533 9.79525 6.30399 11.8674 6.49279C12.0874 6.43306 12.3242 6.39999 12.5714 6.39999C13.7291 6.39999 14.6667 7.11679 14.6667 7.99999Z"
-                              fill="#232C80"
-                            />
-                            <path
-                              fill-rule="evenodd"
-                              clip-rule="evenodd"
-                              d="M10.4762 7.46666C10.4762 7.46666 11.4138 6.4 12.5714 6.4C13.7291 6.4 14.6667 7.1168 14.6667 8C14.6667 5.93813 13.0251 4.26666 11 4.26666C9.53649 4.26666 8.27306 5.1392 7.68534 6.40213C7.33334 7.46666 7.33334 7.77813 7.33334 8C7.85715 8.53333 8.43963 8.53333 8.90477 8.53333C9.36992 8.53333 9.78791 8.32746 10.076 8L10.4762 7.46666Z"
-                              fill="#F93939"
-                            />
-                            <path
-                              fill-rule="evenodd"
-                              clip-rule="evenodd"
-                              d="M15.7143 5.33333H17.8095L15.7143 3.2H14.6667L15.7143 5.33333ZM6.28573 5.33333H4.19049L6.28573 3.2H7.33335L6.28573 5.33333ZM15.7143 10.6667H17.8095L15.7143 12.8H14.6667L15.7143 10.6667ZM6.28573 10.6667H4.19049L6.28573 12.8H7.33335L6.28573 10.6667Z"
-                              fill="#151515"
-                            />
+                          <g clip-path="url(#clip0_1_51208)">
+                            <g clip-path="url(#clip1_1_51208)">
+                              <rect width="22" height="16" rx="2" fill="#DE2910" />
+                              <path
+                                d="M3 3L3.8 4.6L5.5 4L3.8 5.4L4.6 7L3 6L1.4 7L2.2 5.4L0.5 4L2.2 4.6L3 3Z"
+                                fill="#FFDE00"
+                              />
+                              <circle cx="5" cy="2.5" r="0.5" transform="rotate(15 5 2.5)" fill="#FFDE00" />
+                              <circle cx="6" cy="4.5" r="0.5" transform="rotate(30 6 4.5)" fill="#FFDE00" />
+                              <circle cx="6" cy="6.5" r="0.5" transform="rotate(45 6 6.5)" fill="#FFDE00" />
+                              <circle cx="5" cy="8.5" r="0.5" transform="rotate(60 5 8.5)" fill="#FFDE00" />
+                            </g>
                           </g>
                           <defs>
-                            <clipPath id="clip0_1_51082">
+                            <clipPath id="clip0_1_51208">
                               <rect width="22" height="16" fill="white" />
+                            </clipPath>
+                            <clipPath id="clip1_1_51208">
+                              <rect width="22" height="16" rx="2" fill="white" />
                             </clipPath>
                           </defs>
                         </svg>
+
                       ): selectedLanguage === "vt" ? (
                         <svg
                           width="22"
