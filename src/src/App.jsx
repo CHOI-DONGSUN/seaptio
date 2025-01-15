@@ -473,7 +473,7 @@ const App = () => {
                         <option value="vt">VT</option>
                         <option value="id">ID</option>
                         <option value="ko">KO</option>
-                      </select>
+                      </select>  
                     </div>
                     <BsList
                       className="mob-hamburger"
