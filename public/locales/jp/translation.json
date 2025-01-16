@@ -1,9 +1,9 @@
 {
     "nav": {
-        "roadmap": "Roadmap",
-        "about": "About",
-        "tokenomics": "Tokenomics",
-        "whitepaper": "Whitepaper"
+      "roadmap": "Roadmap",
+      "about": "About",
+      "tokenomics": "Tokenomics",
+      "whitepaper": "Whitepaper"
     },
     "hero": {
       "title1": "Get APT",
@@ -12,84 +12,80 @@
     "roadmap": {
       "title": "How about finding a home in space?",
       "subtitle": "SeAPT",
-      "description": "우주에 내집을 마련하자! 나의 충견 SeAPT를 파견하여 우주를 정복하며, 그곳에 내 집을 만들어 보자구. 우주로 나가서 별들을 점령하면 많은 보물(코인)을 얻을 수 있어. 그 보물(코인)은 나를 억만장자로 만들어 줄거야!",
+      "description": "宇宙に家を建てよう！忠実な仲間であるSeAPTを送り出して、宇宙を征服し、星々の間に家を作ろう。宇宙を冒険し、星々を手に入れることで、無数の宝物（コイン）を発見できるでしょう。その宝物（コイン）が私を億万長者にしてくれるのです！",
       "phase1": {
         "title": "Phase 1",
         "date": "2025.01",
-        "description": "TAP TO EARN 출시"
+        "description": "TAP TO EARN Launch"
       },
       "phase2": {
         "title": "Phase 2",
         "date": "2025.06",
-        "description": "TOP 10 거래소 상장"
+        "description": "Listing on a TOP 10 Exchange"
       },
       "phase3": {
         "title": "Phase 3",
         "date": "2025.12",
-        "description": "유저 10만명 달성\nTOP 5 거래소 상장"
+        "description": "Achievement of 100,000 Users Listing on a TOP 5 Exchange"
       },
       "phase4": {
         "title": "Phase 4",
         "date": "2026",
-        "description": "Binance 상장"
+        "description": "Listed on Binance"
       }
     },
     "about": {
       "rwa": {
         "title": "RWA",
-        "subtitle": "실물 자산",
-        "heading": "블록체인에 RWA 도입",
-        "description": "우리는 부동산, 금, 주식과 같은 실물 자산을 Crypto Property로 전환하여, 누구나 블록체인에서 안전하고 투명하게 소유하고 거래할 수 있도록 합니다."
-      },
+        "subtitle": "Real World Asset",
+        "heading": "Bringing RWA to the Blockchain",
+        "description": "私たちは、不動産、金、株式などの現実世界の資産をCrypto Propertyに変換し、誰もが安全かつ透明性のある形でブロックチェーン上で所有・取引できるようにします。"},
       "luckyToE": {
         "title": "Lucky to Earn",
-        "heading": "행동을 통해 보상을 얻으세요!",
-        "description": "사용자가 플랫폼에 참여하기만 해도 흥미로운 보상을 얻고 수익을 창출할 수 있도록 지원합니다. 활동을 완료하거나, 이벤트에 참여하거나, 의미 있는 방식으로 기여하는 등, 여러분의 노력은 인정받고 보상으로 돌아옵니다. 지금 함께하여 여러분의 행동을 가치 있는 혜택으로 바꿔보세요!"
-      },
+        "heading": "Earn Rewards Through Your Actions!",
+        "description": "私たちのプラットフォームに参加するだけで、ワクワクする報酬を獲得し、収入を得ることができます。アクティビティの完了、イベントへの参加、有意義な貢献など、あなたの努力は確実に認められ、報われます。行動を価値ある利益に変えるために、ぜひご参加ください！"},
       "ai": {
         "title": "AI",
-        "subtitle": "인공지능",
-        "heading": "AI와 블록체인 보상의 만남",
-        "description": "AI 기술과 블록체인을 통합하여 자동화된 프로세스, 최적화된 보상 분배, 데이터 분석을 제공함으로써 효율적이고 안전한 사용자 경험을 제공합니다."
+        "subtitle": "Artificial Intelligence",
+        "heading": "AI Meets Blockchain Rewards",
+        "description": "AI技術とブロックチェーンを統合することで、自動化されたプロセス、最適化された報酬分配、データ分析を提供し、効率的で安全なユーザー体験を実現します。"
       },
       "nft": {
         "title": "NFT",
-        "subtitle": "대체 불가능 토큰",
-        "heading": "NFT로 소유권 재정의",
-        "description": "실물 자산의 가치를 디지털 혁신과 결합하여 독창적인 디지털 자산의 소유권을 보장하는 Crypto Property NFT를 제공합니다. 이러한 NFT는 실질적인 가치와 첨단 기술을 연결하는 전례 없는 기회를 제공하며, 디지털 시대의 소유 개념을 재정의합니다."
-      }
+        "subtitle": "Non-Fungible Token",
+        "heading": "Redefining Ownership with NFTs",
+        "description": "私たちは、現実の価値とデジタル革新を融合させたユニークなデジタル資産の所有権を保証するCrypto Property NFTを提供します。これらのNFTは、有形の価値と最先端技術を結びつけ、デジタル時代の所有権の概念を再定義する前例のない機会を提供します。"}
     },
     "tokenomics": {
-      "title": "SeAPT로 우주를 소유하세요",
+      "title": "Own the universe with SeAPT",
       "totalSupply": {
-        "title": "총 발행량: 500조",
-        "description": "SeAPT는 BSC 네트워크 기반으로 만들어진 차세대 Meme Coin입니다."
-      },
+        "title": "総供給量：500兆",
+        "description": "SeAPTは、BSCネットワーク上に構築された次世代のミームコインです。" },
       "lp": {
-        "title": "LP: 96%",
-        "description": "SeAPT 코인의 주권은 SeAPT 유저들한테 있고, 그 Power도 당연히 유저들 몫입니다."
+        "title": "流動性プール（LP）：96% ",
+        "description": "SeAPTコインの所有権はSeAPTユーザーにあり、当然、その力も彼らにあります。"
       },
       "burn": {
-        "title": "소각: 300조",
-        "description": "바이낸스에서 200조개 소각하라는 조언을 들었는데 통크게 300조개를 소각하기로 했습니다. 아깝지만 가치를 높이는 길을 선택했습니다."
+        "title": "バーン（焼却）：300兆",
+        "description": "バイナンスは200兆トークンの焼却を推奨しましたが、私たちは300兆を焼却することに決めました。これは大胆な決断ですが、価値を高めるために、少し痛みを伴ってもこの道を選びました。"
       },
       "charity": {
-        "title": "자선, 에어드롭: 2%",
-        "description": "SeAPT 정신을 이어받아 많은 사람들을 돕고 SeAPT를 세상에 알리는데 사용하겠습니다."
+        "title": "チャリティーとエアドロップ：2%",
+        "description": "SeAPTの精神に従い、この資金を多くの人々の支援やSeAPTの世界的な普及に活用します"
       },
       "marketing": {
-        "title": "마케팅, 거래소 유동성: 2%",
-        "description": "여기저기 거래소에서 자꾸 SeAPT 코인을 달라고 하길래 조금 나눠주고 나머지는 마케팅에 사용합니다."
+        "title": "マーケティングと取引所の流動性：2%",
+        "description":"さまざまな取引所がSeAPTコインを求めているため、一部を取引所に配分し、残りはマーケティングに使用します。"
       }
     },
     "whitepaper": {
-      "title": "백서",
-      "buttonText": "다운로드",
-      "content": "2024년, 전 세계의 부동산 시장이 폭등하며 많은 사람들은 '집을 사는 꿈'을 포기해야 할 처지에 놓였고, 그에 대한 지구인들의 불만은 점점 커져갔다. '집값이 너무 오른 지구에서 집을 못 사니, 우주에서 집을 구하는건 어때?' 그리고 그 아이디어는 점차적으로 SeAPT라는 밈 코인으로 구체화되었다. Se는 우주(Space)의 약자이고, APT는 아파트(house)를 의미한다. 이 코인은 특히 지금 유행하는 APT라는 노래와 결합되어 더욱 큰 반향을 일으켰다. '집을 사기 힘든 현실'을 풍자하는 SeAPT 밈코인의 탄생은, 누구나 우주에 집을 가질 수 있다는 희망을 상징하게 되었다. 이제 SeAPT는 단순한 밈코인을 넘어, '미래의 주택'과 '유쾌한 반란'의 상징으로 자리잡게 되었다. '우리는 우주에 아파트를 가진다!'라는 슬로건을 내세운 SeAPT는 현실의 불평등을 극복하면서, 동시에 유머를 잃지 않고, 모든 사람들이 우주를 향해 꿈을 펼칠 수 있는 자유를 표현하고 있다."
+      "title": "Whitepaper",
+      "buttonText": "Download",
+      "content": "2024年、世界中の不動産市場が急騰し、多くの人々がマイホームの夢を諦めざるを得ませんでした。地球上の人々の不満はますます高まりました。地球で家を買えないなら、宇宙に家を探してみたらどうでしょうか？このアイデアは徐々に「Se APT」というミームコインとして形になりました。Seは「Space（宇宙）」、APTは「Apartment（アパート・家）」を意味します。このコインは、流行中の楽曲「APT」との相乗効果でさらに注目を集め、大きな熱狂を生み出しました。Se APTの誕生は、家を持つという叶わぬ夢を皮肉ったものであり、宇宙に家を持てるという希望の象徴となりました。今やSe APTは単なるミームコインを超え、未来の住まいや遊び心ある反抗の象徴へと進化しています。「宇宙にアパートを持とう！」というスローガンのもと、Se APTは現実の不平等を乗り越え、ユーモアを忘れずに、誰もが大きな夢を見て星を目指せる自由を表しています。"
     },
     "footer": {
-      "slogan": "지금이 바로 우주에서 APT를 얻을 시간입니다",
-      "copyright": "Space APT © 2024. 모든 권리 보유."
+      "slogan": "THE TIME IS NOW GET APT IN SPACE",
+      "copyright": "Space APT © 2024. All rights reserved."
     }
   }
   
