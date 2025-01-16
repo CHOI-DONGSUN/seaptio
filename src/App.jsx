@@ -436,6 +436,29 @@ const App = () => {
                           </defs>
                         </svg>
 
+                      ): selectedLanguage === "id" ? (
+                        <svg
+                          width="22"
+                          height="16"
+                          viewBox="0 0 22 16"
+                          fill="none"
+                          xmlns="http://www.w3.org/2000/svg"
+                        >
+                          <g clip-path="url(#clip0_1_51208)">
+                            <g clip-path="url(#clip1_1_51208)">
+                              <rect width="22" height="16" rx="2" fill="white" />
+                              <rect width="22" height="8" fill="#FF0000" />
+                            </g>
+                          </g>
+                          <defs>
+                            <clipPath id="clip0_1_51208">
+                              <rect width="22" height="16" fill="white" />
+                            </clipPath>
+                            <clipPath id="clip1_1_51208">
+                              <rect width="22" height="16" rx="2" fill="white" />
+                            </clipPath>
+                          </defs>
+                        </svg>
                       ): (
                         <div>Language not supported</div>
                       )}
@@ -445,11 +468,11 @@ const App = () => {
                         value={selectedLanguage}
                       >
                         <option value="en">EN</option>
-                        <option value="ko">KO</option>
-                        <option value="jp">JP</option>
                         <option value="cn">CN</option>
+                        <option value="jp">JP</option>
                         <option value="vt">VT</option>
-                      </select>
+                        <option value="ko">KO</option>
+                      </select>  
                     </div>
                     <BsList
                       className="mob-hamburger"
